@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box
+}
+
+body{
+    width: 800px;
+    height: 920px;
+    margin-left: 36em;
+    background-color: gold;
+    position: relative;
+}
+.background{
+    z-index: -10;
+    width: 2000px;
+    height: 920px;
+    margin-left: -20px;
+    background-color: white;
+    position: absolute;
+}
+/*
+input{
+  margin-left: 22em;
+  margin-top: 3em;
+}
+
+p{
+    margin-left: 17em;
+    margin-top: 2em;
+    padding: 1em;
+}
+*/
+#Weather-Icon{
+    margin-top:20px;
+}
+#textlonglat{
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+}
+#Lüftangabe{
+    font-size: 30px;
+    font-weight: bold;
+}
+#CityName{
+    font-size: 20px;
+    font-weight: bold;
+
+}
