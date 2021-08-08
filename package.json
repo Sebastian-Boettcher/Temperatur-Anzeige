@@ -4,6 +4,7 @@
   "description": "Diese App kann die aktuelle Temperatur anzeigen und anhand davon eine Anweisung zum Lüften geben.",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
